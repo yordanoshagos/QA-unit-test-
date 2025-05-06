@@ -1,0 +1,25 @@
+{
+  "name": "qa-unit-test-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yordanoshagos/QA-unit-test-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yordanoshagos/QA-unit-test-/issues"
+  },
+  "homepage": "https://github.com/yordanoshagos/QA-unit-test-#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
